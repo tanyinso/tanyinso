@@ -14,7 +14,7 @@ Hi, I’m Tanyinso Bright! I am a dedicated network engineer, system administrat
 
 Here are some of my projects related to networking:
 
-- [Project Name 1](link-to-your-network-project1)
+- [AUTONETSEC:Elevating Network and Security Operations Through Automation ](https://github.com/tanyinso/AutoNetSec.git)
 - [Project Name 2](link-to-your-network-project2)
 - [Project Name 3](link-to-your-network-project3)
 
