@@ -47,6 +47,6 @@ Discover my work as a SOC analyst:
 Feel free to reach out for collaboration or inquiries:
 
 - Email: [tanyinsobright237@gmail.com](mailto:tanyinsobright237@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
+- LinkedIn: [Tanyinso Bright](www.linkedin.com/in/tanyinso-bright-500477269)
 
 Thank you for visiting my portfolio! 🌟
