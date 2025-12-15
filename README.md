@@ -22,7 +22,7 @@ Here are some of my projects related to networking:
 
 Explore my system administration projects:
 
-- [EVE-NG : FIXED CORRUPT MYSQL DATABASE ON EVE-NG COMMUNITY EDITION 🌐](link-to-your-sysadmin-project2)
+- [EVE-NG : FIXED CORRUPT MYSQL DATABASE ON EVE-NG COMMUNITY EDITION 🌐](https://github.com/tanyinso/EVE-NG-MYSQL-SYSTEM-DB-RECOVERY.git)
 - [Project Name 3](link-to-your-sysadmin-project3)
 
 ## Pentesting Projects 🔒
