@@ -22,8 +22,7 @@ Here are some of my projects related to networking:
 
 Explore my system administration projects:
 
-- [Disaster Recovery](https://github.com/tanyinso/Disaster-recovery.git)
-- [Project Name 2](link-to-your-sysadmin-project2)
+- [EVE-NG : FIXED CORRUPT MYSQL DATABASE ON EVE-NG COMMUNITY EDITION 🌐](link-to-your-sysadmin-project2)
 - [Project Name 3](link-to-your-sysadmin-project3)
 
 ## Pentesting Projects 🔒
