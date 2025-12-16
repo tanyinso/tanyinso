@@ -8,6 +8,8 @@ Hi, I’m Tanyinso Bright! I am a dedicated network engineer, system administrat
 - [Sysadmin Projects 🖥️](#sysadmin-projects)
 - [Pentesting Projects 🔒](#pentesting-projects)
 - [SOC Analyst Projects 🕵️‍♂️](#soc-analyst-projects)
+- [AWS PROJECTS]
+- [AZURE PROJECTS]
 - [Contact Me ✉️](#contact-me)
 
 ## Network Projects 🌐
