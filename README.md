@@ -10,7 +10,7 @@
                          B R I G H T
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=650&lines=Network+Engineer+%7C+Security+Engineer;Penetration+Tester+%7C+Red+Team+Mindset;SOC+Analyst+%7C+Threat+Hunter;Azure+%26+AWS+Cloud+Administrator;Automating+networks+with+Ansible+%26+Python;%22If+it+has+an+IP%2C+I+secure+it.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=650&lines=Network+Engineer+%7C+Security+Engineer;Penetration+Tester+%7C+Red+Team+Mindset;SOC+Analyst+%7C+Threat+Hunter;Azure+%26+AWS+Cloud+Administrator;Automating+networks+with+Ansible+%26+Python;%22If+it+has+an+IP%2C+I+own+it.%22)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanyinso-bright-500477269/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyinsobright237@gmail.com)
@@ -27,6 +27,7 @@
 
 ```yaml
 name     : Tanyinso Bright
+location : Cameroon 🇨🇲
 roles    :
   - Network Engineer
   - Network Security Engineer
@@ -36,20 +37,23 @@ roles    :
   - Azure & AWS Cloud Administrator
 mindset  : "Think like an attacker. Defend like an engineer."
 tools    : [ Ansible, Python, Bash, Wireshark, Nmap, Metasploit, Azure, AWS ]
-focus    : Network Automation · Cloud Security · Threat Detection · Red Teaming  · IAM · AI
+focus    : Network Automation · Cloud Security · Threat Detection · Red Teaming ·IAM ·AI
 ```
 
 ---
 
 ## 🛠️ Tech Stack & Arsenal
 
-**Networking**
+**Networking & Firewalls**
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_ASA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white)
+![Check Point](https://img.shields.io/badge/Check_Point-CC0000?style=for-the-badge&logoColor=white)
+![Fortinet](https://img.shields.io/badge/Fortinet_FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper_Networks-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 ![EVE--NG](https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge&logoColor=white)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
 **Security & Pentesting**
 
