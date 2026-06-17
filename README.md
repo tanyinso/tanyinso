@@ -27,7 +27,6 @@
 
 ```yaml
 name     : Tanyinso Bright
-location : Cameroon 🇨🇲
 roles    :
   - Network Engineer
   - Network Security Engineer
