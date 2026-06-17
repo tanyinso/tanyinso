@@ -1,53 +1,169 @@
-# Tanyinso Bright 👋
+<div align="center">
 
-Hi, I’m Tanyinso Bright! I am a dedicated network engineer, system administrator, penetration tester, and SOC analyst. This portfolio showcases my projects across these domains, demonstrating my skills and expertise.
+```
+████████╗ █████╗ ███╗   ██╗██╗   ██╗██╗███╗   ██╗███████╗ ██████╗
+╚══██╔══╝██╔══██╗████╗  ██║╚██╗ ██╔╝██║████╗  ██║██╔════╝██╔═══██╗
+   ██║   ███████║██╔██╗ ██║ ╚████╔╝ ██║██╔██╗ ██║███████╗██║   ██║
+   ██║   ██╔══██║██║╚██╗██║  ╚██╔╝  ██║██║╚██╗██║╚════██║██║   ██║
+   ██║   ██║  ██║██║ ╚████║   ██║   ██║██║ ╚████║███████║╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝ ╚═════╝
+                         B R I G H T
+```
 
-## Table of Contents 📚
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=600&color=00F7FF&center=true&vCenter=true&width=650&lines=Network+Engineer+%7C+Security+Engineer;Penetration+Tester+%7C+Red+Team+Mindset;SOC+Analyst+%7C+Threat+Hunter;Azure+%26+AWS+Cloud+Administrator;Automating+networks+with+Ansible+%26+Python;%22If+it+has+an+IP%2C+I+secure+it.%22)](https://git.io/typing-svg)
 
-- [Network Projects 🌐](#network-projects)
-- [Sysadmin Projects 🖥️](#sysadmin-projects)
-- [Pentesting Projects 🔒](#pentesting-projects)
-- [SOC Analyst Projects 🕵️‍♂️](#soc-analyst-projects)
-- [AWS PROJECTS](#aws-projects)
-- [AZURE PROJECTS](#azure-projects)
-- [Contact Me ✉️](#contact-me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanyinso-bright-500477269/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanyinsobright237@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tanyinso)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/tanyinso)
 
-## Network Projects 🌐
+![Visitor Count](https://komarev.com/ghpvc/?username=tanyinso&color=00f7ff&style=flat-square&label=PROFILE+VIEWS)
 
-Here are some of my projects related to networking:
+</div>
 
-- [AUTONETSEC: Elevating Network and Security Operations Through Automation with Ansible](https://github.com/tanyinso/AutoNetSec.git)
-- [Project Name 2](link-to-your-network-project2)
-- [Project Name 3](link-to-your-network-project3)
+---
 
-## Sysadmin Projects 🖥️
+## `$ whoami`
 
-Explore my system administration projects:
+```yaml
+name     : Tanyinso Bright
+roles    :
+  - Network Engineer
+  - Network Security Engineer
+  - Penetration Tester
+  - SOC Analyst
+  - System Administrator
+  - Azure & AWS Cloud Administrator
+mindset  : "Think like an attacker. Defend like an engineer."
+tools    : [ Ansible, Python, Bash, Wireshark, Nmap, Metasploit, Azure, AWS ]
+focus    : Network Automation · Cloud Security · Threat Detection · Red Teaming  · IAM · AI
+```
 
-- [EVE-NG : FIXED CORRUPT MYSQL DATABASE ON EVE-NG COMMUNITY EDITION 🌐](https://github.com/tanyinso/EVE-NG-MYSQL-SYSTEM-DB-RECOVERY.git)
-- [Project Name 3](link-to-your-sysadmin-project3)
+---
 
-## Pentesting Projects 🔒
+## 🛠️ Tech Stack & Arsenal
 
-Check out my penetration testing projects:
+**Networking**
 
-- [Project Name 1](link-to-your-pentesting-project1)
-- [Project Name 2](link-to-your-pentesting-project2)
-- [Project Name 3](link-to-your-pentesting-project3)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![EVE--NG](https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
 
-## SOC Analyst Projects 🕵️‍♂️
+**Security & Pentesting**
 
-Discover my work as a SOC analyst:
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B4E0?style=for-the-badge&logo=tenable&logoColor=white)
 
-- [Project Name 1](link-to-your-soc-project1)
-- [Project Name 2](link-to-your-soc-project2)
-- [Project Name 3](link-to-your-soc-project3)
+**Cloud & Sysadmin**
 
-## Contact Me ✉️
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-Feel free to reach out for collaboration or inquiries:
+**Automation & Scripting**
 
-- Email: [tanyinsobright237@gmail.com](mailto:tanyinsobright237@gmail.com)
-- LinkedIn: ([www.linkedin.com/in/tanyinso-bright-500477269](https://www.linkedin.com/in/tanyinso-bright-500477269/))
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-Thank you for visiting my portfolio! 🌟
+---
+
+## 📂 Project Portfolio
+
+### 🌐 Network Engineering
+
+| Project | Description |
+|---------|-------------|
+| [**AutoNetSec** — Network & Security Automation with Ansible](https://github.com/tanyinso/AutoNetSec.git) | End-to-end automation of network and security operations using Ansible playbooks. Reduces manual configuration overhead and enforces consistent security baselines across infrastructure. |
+
+---
+
+### 🖥️ System Administration
+
+| Project | Description |
+|---------|-------------|
+| [**EVE-NG MySQL Recovery** — Fix Corrupt System DB on EVE-NG Community](https://github.com/tanyinso/EVE-NG-MYSQL-SYSTEM-DB-RECOVERY.git) | Step-by-step recovery guide and scripts for restoring a corrupted MySQL database on EVE-NG Community Edition — a common pain point in lab environments. |
+
+---
+
+### 🔒 Penetration Testing
+
+> 🚧 Projects coming soon — stay tuned.
+
+---
+
+### 🕵️ SOC Analyst
+
+> 🚧 Projects coming soon — stay tuned.
+
+---
+
+### ☁️ Cloud Projects
+
+#### AWS
+
+> 🚧 AWS projects coming soon.
+
+#### Azure
+
+> 🚧 Azure projects coming soon.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Tanyinso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanyinso&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyinso&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=tanyinso&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF4C4C&currStreakLabel=00F7FF)
+
+</div>
+
+---
+
+## 🧠 Active Learning Radar
+
+```bash
+$ nmap -sV --open tanyinso.io
+
+PORT      STATE   SERVICE         VERSION
+443/tcp   open    Azure Security  IAM · Defender · Sentinel
+8080/tcp  open    Web Pentesting  OWASP Top 10 · Burp Suite
+22/tcp    open    Linux Hardening Ansible Automation · Bash
+3389/tcp  open    AD & Windows    Group Policy · SIEM Integration
+6443/tcp  open    Cloud Infra     AWS · Azure · Terraform
+
+[*] Scan complete. All ports secured. Attacker mindset: active.
+```
+
+---
+
+## 📬 Contact
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | [tanyinsobright237@gmail.com](mailto:tanyinsobright237@gmail.com) |
+| 💼 LinkedIn | [tanyinso-bright](https://www.linkedin.com/in/tanyinso-bright-500477269/) |
+
+---
+
+<div align="center">
+
+```
+"The quieter you become, the more you are able to hear." — Kali Linux
+```
+
+⭐ *If any of my projects helped you, consider giving them a star!*
+
+</div>
